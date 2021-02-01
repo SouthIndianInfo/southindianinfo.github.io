@@ -21,7 +21,7 @@ button
 .btn{background-color:orangered; color: black;}
 .btn:hover {background-color: #0C090A; color: orangered;}
 body {
-	background-color: orangered;
+	background-color: red;
 }
 .mm{
 	border-radius: 10px;
