@@ -5,28 +5,28 @@ div
 	font-family: sans-serif;
 	font-size: 390%; 
 	float: left;
-	width: 92%;
-	
+	width: 92%;	
 }
 button
 {
 	font-family: Arial, Helvetica, sans-serif;
 	font-variant: small-caps;
-	font-size: 25%;
+	font-size: 30%;
 	border-radius: 8px;
 	padding: 25px 20px;
 	float: right;
-	width: 17%;
+	width: 20%;
 	margin: 5px;
 }
-.btn{background-color:#0C090A; color: orangered;}
-.btn:hover {background-color: orangered; color: black;}
+.btn{background-color:orangered; color: black;}
+.btn:hover {background-color: #0C090A; color: orangered;}
 body {
 	background-color: orangered;
 }
 .mm{
 	border-radius: 10px;
 	font-family: courier, Monaco, monospace;
+	float: initial;
 }
 .m{
 	border-radius: 10px;
@@ -34,12 +34,19 @@ body {
 	float: initial;
 	font-family: courier, Monaco, monospace;
 }
-.n{
+
+.s {
 	border-radius: 10px;
 	width: 100%;
 	float: initial;
 	font-family: courier, Monaco, monospace;
 }
+.n {
+	height: 100%;
+	margin: 20px;
+	font-family: Arial;
+	float: initial;
+  }
 .f{
 	font-family: Arial, Helvetica, sans-serif;
 	font-variant: small-caps;
